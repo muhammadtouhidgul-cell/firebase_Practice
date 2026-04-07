@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740312507494",
+    "project_id": "flrebase-series",
+    "storage_bucket": "flrebase-series.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740312507494:android:be28d53ba846072e8479a7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_wscube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gKU1ZeG2sr-bEEJ3rUEjtKrR0MXDow4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
