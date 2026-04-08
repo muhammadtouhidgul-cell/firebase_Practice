@@ -24,6 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
               children: [
                 Text("hello firebase"),
                 Text("hello firebase"),
+                Text("hello firebase"),
               ],
             ),
           ),
