@@ -20,8 +20,13 @@ class _HomeScreenState extends State<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Center(
-            child: Text("hello firebase"),
-          )
+            child: Column(
+              children: [
+                Text("hello firebase"),
+                Text("hello firebase"),
+              ],
+            ),
+          ),
         ],
       ),
     );
